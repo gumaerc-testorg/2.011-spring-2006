@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: d07bad32-90f0-6804-1882-ac316a4de372
 title: Part 2
 uid: 57bd3f9a-77c2-b33d-c046-501c52429998
@@ -16,7 +20,7 @@ Description of Final Project ([PDF]({{< baseurl >}}/resources/challenge_v2))
 ### Final Project Test, near Woods Hole Oceanographic Institution
 
 Video of Final Project Test ([MOV - 34.4MB](/ans7870/2/2.011/s06/labs/whoi_test.mov))
-{{< image-gallery id="57bd3f9a-77c2-b33d-c046-501c52429998_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-011-introduction-to-ocean-science-and-engineering-spring-2006/" >}}
+{{< image-gallery id="57bd3f9a-77c2-b33d-c046-501c52429998_nanogallery2" baseUrl="/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/" >}}
 {{< image-gallery-item href="f9e1ae8a4055236a2dd1f5633cc538c3_IMG_1577.jpg" data-ngdesc="David Wyatt and Elizabeth Palmer prepare the SuperSeaPerch ROV (remotely operated vehicle) to dive." text="David Wyatt and Elizabeth Palmer prepare the SuperSeaPerch ROV (remotely operated vehicle) to dive." >}}
 {{< image-gallery-item href="6caed4ade2956f3972f1f46cd9cf33fb_IMG_1579.jpg" data-ngdesc="Katrine Sivertsen and Edward Huo survey the launch." text="Katrine Sivertsen and Edward Huo survey the launch." >}}
 {{< image-gallery-item href="16681811aef6a5b4c136bf2530ac6e23_IMG_1587.jpg" data-ngdesc="Julie Arsenault happily checks the depthfinder instrumentation." text="Julie Arsenault happily checks the depthfinder instrumentation." >}}

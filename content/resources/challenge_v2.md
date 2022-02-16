@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains the notes on the challenges for ocean systems design.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-011-introduction-to-ocean-science-and-engineering-spring-2006/d29eeb75607857180b45b7b99727bd49_challenge_v2.pdf
+file: /media/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/d29eeb75607857180b45b7b99727bd49_challenge_v2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: challenge_v2.pdf
 uid: d29eeb75-6078-5718-0b45-b7b99727bd49
