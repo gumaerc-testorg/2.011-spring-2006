@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d07bad32-90f0-6804-1882-ac316a4de372
 resourcetype: Document
 title: labsafety.pdf
 uid: 751b6117-5b22-b82c-c6f5-8838d851dc81

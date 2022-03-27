@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 113929cd-9930-2732-848e-9dc0ae95452a
 resourcetype: Document
 title: hydrost_pressure.pdf
 uid: 39ff285a-f55b-91f5-5047-3ba37192caf1

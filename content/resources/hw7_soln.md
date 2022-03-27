@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 73d7a08c-651b-0122-9b4b-e53f759c66ff
 resourcetype: Document
 title: hw7_soln.pdf
 uid: fcc6a705-4a11-caa2-9110-da7dab5c8f09

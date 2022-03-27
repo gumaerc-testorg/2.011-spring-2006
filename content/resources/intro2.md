@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 113929cd-9930-2732-848e-9dc0ae95452a
 resourcetype: Document
 title: intro2.pdf
 uid: 92b05856-ec9b-5571-b7b2-f0377a284017

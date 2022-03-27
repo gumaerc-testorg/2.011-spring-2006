@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 113929cd-9930-2732-848e-9dc0ae95452a
 resourcetype: Document
 title: hw5_sonar_leonar.pdf
 uid: 073d1246-f6aa-c010-2c6b-29e0bfdfa5bc

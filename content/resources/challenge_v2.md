@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d07bad32-90f0-6804-1882-ac316a4de372
 resourcetype: Document
 title: challenge_v2.pdf
 uid: d29eeb75-6078-5718-0b45-b7b99727bd49

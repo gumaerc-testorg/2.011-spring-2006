@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 113929cd-9930-2732-848e-9dc0ae95452a
 resourcetype: Document
 title: geostrophic.pdf
 uid: 47a035a6-428b-728e-53a0-8fc183bce9f3
