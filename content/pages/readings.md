@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings section contains the readings based on the chapters of the required
+  text and additional texts for the same.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -45,9 +47,9 @@ Introduction to Ocean Systems and Engineering
   
 [Chapter 3](https://sites.google.com/tamu.edu/ocean-world/resources)  
   
-Hydrostatic Pressure ([PDF]({{< baseurl >}}/resources/hydrost_pressure))  
+Hydrostatic Pressure ({{% resource_link 39ff285a-f55b-91f5-5047-3ba37192caf1 "PDF" %}})  
   
-Slides: Introduction Part 1 ([PDF]({{< baseurl >}}/resources/intro1))
+Slides: Introduction Part 1 ({{% resource_link 412cb4e7-3f8f-de4b-1324-a06198279335 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ Sea Floor; Measurements in the Ocean; Accuracy of Measurements
 {{< tdopen >}}
 [Chapter 3](https://sites.google.com/tamu.edu/ocean-world/resources)  
   
-Slides: Introduction Part 2 ([PDF - 2.5 MB]({{< baseurl >}}/resources/intro2))
+Slides: Introduction Part 2 ({{% resource_link 92b05856-ec9b-5571-b7b2-f0377a284017 "PDF - 2.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +209,7 @@ L9
 Acoustics 3
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Sonor (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw5_sonar_leonar)) (Courtesy of Prof. John Leonard. Used with permission.)
+Introduction to Sonor ({{% resource_link 073d1246-f6aa-c010-2c6b-29e0bfdfa5bc "PDF" %}}) (Courtesy of Prof. John Leonard. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,7 +283,7 @@ Turbulence, Scaling, Boundary Layers
 {{< tdopen >}}
 [Chapter 8](https://sites.google.com/tamu.edu/ocean-world/resources)  
   
-Slides: Vorticity in the Ocean (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/vorticity))
+Slides: Vorticity in the Ocean ({{% resource_link 99a66f4f-41c6-bc48-b1b6-225a1c696f90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +321,7 @@ Coriolis Force and Ekman Forcing
 {{< tdopen >}}
 [Chapter 9](https://sites.google.com/tamu.edu/ocean-world/resources)  
   
-Slides: Motion of the Upper Ocean ([PDF]({{< baseurl >}}/resources/ekman))
+Slides: Motion of the Upper Ocean ({{% resource_link 71d23b70-1596-048f-dd85-8ecd31c562ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -345,7 +347,7 @@ Geostrophic Flows 1
 {{< tdopen >}}
 [Chapter 10](https://sites.google.com/tamu.edu/ocean-world/resources)  
   
-Slides: Geostrophic Currents ([PDF]({{< baseurl >}}/resources/geostrophic))
+Slides: Geostrophic Currents ({{% resource_link 47a035a6-428b-728e-53a0-8fc183bce9f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

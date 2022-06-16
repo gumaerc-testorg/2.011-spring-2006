@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/751b61175b22b82cc6f58838d851dc81_labsafety.pdf
+file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/751b61175b22b82cc6f58838d851dc81_labsafety.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs

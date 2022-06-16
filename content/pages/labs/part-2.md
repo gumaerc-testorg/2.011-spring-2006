@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -15,7 +16,7 @@ Part 2
 
 Labs 7-14 are devoted to the final project, in which students design and build an ROV outfitted with the necessary instrumentation to map and investigate a simulated hydrothermal vent field in a pool. This project will give students a chance to collect data about the field from the sensors they build themselves. After the pool trials, students will venture to WHOI to "field test" our ROV.
 
-Description of Final Project ([PDF]({{< baseurl >}}/resources/challenge_v2))
+Description of Final Project ({{% resource_link d29eeb75-6078-5718-0b45-b7b99727bd49 "PDF" %}})
 
 ### Final Project Test, near Woods Hole Oceanographic Institution
 

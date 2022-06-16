@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Labs section contains the information about the labs and contains general
+  info about the lab safety.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Labs
 uid: d07bad32-90f0-6804-1882-ac316a4de372
 ---
 
-General Information about the MIT Ocean Engineering Teaching Laboratory (OETL) ([PDF]({{< baseurl >}}/resources/labsafety))
+General Information about the MIT Ocean Engineering Teaching Laboratory (OETL) ({{% resource_link 751b6117-5b22-b82c-c6f5-8838d851dc81 "PDF" %}})
 
 Part 1
 ------

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus section contains the course information, grading criteria, prerequisites
+  etc.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -100,4 +102,4 @@ The required text for the course is freely available online.
 
 Stewart, Robert. [_Introduction to Physical Oceanography_](http://oceanworld.tamu.edu/home/course_book.htm). August 2005 version.
 
-Additional reference and supplemental books are listed in the [readings]({{< baseurl >}}/pages/readings) section.
+Additional reference and supplemental books are listed in the {{% resource_link 113929cd-9930-2732-848e-9dc0ae95452a "readings" %}} section.
