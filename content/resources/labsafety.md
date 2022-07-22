@@ -5,6 +5,7 @@ file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/7
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

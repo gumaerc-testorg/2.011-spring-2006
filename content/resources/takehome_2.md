@@ -6,6 +6,7 @@ file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: takehome_2.pdf
 uid: d897b08e-2501-7f64-ae16-a6448e679f5b
 ---
 This file contains the questions based on the topics covered during the course for take home exam.
-

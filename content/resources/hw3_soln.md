@@ -5,6 +5,7 @@ file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw3_soln.pdf
 uid: 1949d1cb-d98a-e66a-d257-d529ca8e6d24
 ---
 This file contains the solution to the questions asked in homework 3.
-

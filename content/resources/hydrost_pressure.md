@@ -5,6 +5,7 @@ file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/3
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hydrost_pressure.pdf
 uid: 39ff285a-f55b-91f5-5047-3ba37192caf1
 ---
 This file contains notes on the pressure effects.
-

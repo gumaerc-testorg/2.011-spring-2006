@@ -6,6 +6,7 @@ file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/9
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: intro2.pdf
 uid: 92b05856-ec9b-5571-b7b2-f0377a284017
 ---
 This file contains notes on the introduction to Ocean Science and Engineering, measurements in ocean, types of measurements etc, nyquist rate.
-

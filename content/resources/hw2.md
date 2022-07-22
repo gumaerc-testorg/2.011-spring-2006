@@ -5,6 +5,7 @@ file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw2.pdf
 uid: f06398b6-ec94-056c-7213-899d7bc23121
 ---
 This file contains exercise questions for the topics covered in the course.
-

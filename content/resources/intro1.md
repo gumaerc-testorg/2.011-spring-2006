@@ -6,6 +6,7 @@ file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: intro1.pdf
 uid: 412cb4e7-3f8f-de4b-1324-a06198279335
 ---
 This file contains notes on the introduction to ocean science and engineering, basic information on the course etc.
-

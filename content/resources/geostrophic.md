@@ -7,6 +7,7 @@ file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: geostrophic.pdf
 uid: 47a035a6-428b-728e-53a0-8fc183bce9f3
 ---
 This file contains notes for Geostrophic Balance (Horizontal), Hydrostatic Balance (Vertical), Geostrophic Equations, Sea Surface Elevation, Satellite Measurement of Currents etc.
-
