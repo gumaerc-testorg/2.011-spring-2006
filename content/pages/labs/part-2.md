@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: d07bad32-90f0-6804-1882-ac316a4de372
 title: Part 2
 uid: 57bd3f9a-77c2-b33d-c046-501c52429998
@@ -11,12 +16,12 @@ Part 2
 
 Labs 7-14 are devoted to the final project, in which students design and build an ROV outfitted with the necessary instrumentation to map and investigate a simulated hydrothermal vent field in a pool. This project will give students a chance to collect data about the field from the sensors they build themselves. After the pool trials, students will venture to WHOI to "field test" our ROV.
 
-Description of Final Project ([PDF]({{< baseurl >}}/resources/challenge_v2))
+Description of Final Project ({{% resource_link d29eeb75-6078-5718-0b45-b7b99727bd49 "PDF" %}})
 
 ### Final Project Test, near Woods Hole Oceanographic Institution
 
 Video of Final Project Test ([MOV - 34.4MB](/ans7870/2/2.011/s06/labs/whoi_test.mov))
-{{< image-gallery id="57bd3f9a-77c2-b33d-c046-501c52429998_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-011-introduction-to-ocean-science-and-engineering-spring-2006/" >}}
+{{< image-gallery id="57bd3f9a-77c2-b33d-c046-501c52429998_nanogallery2" baseUrl="/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/" >}}
 {{< image-gallery-item href="f9e1ae8a4055236a2dd1f5633cc538c3_IMG_1577.jpg" data-ngdesc="David Wyatt and Elizabeth Palmer prepare the SuperSeaPerch ROV (remotely operated vehicle) to dive." text="David Wyatt and Elizabeth Palmer prepare the SuperSeaPerch ROV (remotely operated vehicle) to dive." >}}
 {{< image-gallery-item href="6caed4ade2956f3972f1f46cd9cf33fb_IMG_1579.jpg" data-ngdesc="Katrine Sivertsen and Edward Huo survey the launch." text="Katrine Sivertsen and Edward Huo survey the launch." >}}
 {{< image-gallery-item href="16681811aef6a5b4c136bf2530ac6e23_IMG_1587.jpg" data-ngdesc="Julie Arsenault happily checks the depthfinder instrumentation." text="Julie Arsenault happily checks the depthfinder instrumentation." >}}
