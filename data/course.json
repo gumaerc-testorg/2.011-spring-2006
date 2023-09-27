@@ -46,8 +46,10 @@
     "Image Gallery",
     "Exams with Solutions",
     "Projects with Examples",
-    "Problem Sets with Solutions"
+    "Problem Sets with Solutions",
+    "Online Textbook"
   ],
-  "site_uid": "9f5fa6d5-e898-4b22-a0ec-7881422f2c43",
+  "site_uid": "738ac2fc-ba16-4048-8ec6-1d7544899d7f",
+  "site_short_id": "2.011-spring-2006",
   "title": "Course Metadata"
 }
