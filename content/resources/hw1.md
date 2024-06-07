@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the assignment quetions for homework.
 file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/15903fdc674c30cd6298eb4f58a2bb72_hw1.pdf
+file_size: 22129
 file_type: application/pdf
 learning_resource_types:
 - Assignments

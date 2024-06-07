@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes on the pressure effects.
 file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/39ff285af55b91f550473ba37192caf1_hydrost_pressure.pdf
+file_size: 200311
 file_type: application/pdf
 learning_resource_types:
 - Readings
