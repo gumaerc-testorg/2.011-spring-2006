@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/570cd76f0253d00a3e893b66b64afb6b_hw3.pdf
+file_size: 134280
 file_type: application/pdf
 learning_resource_types:
 - Assignments
