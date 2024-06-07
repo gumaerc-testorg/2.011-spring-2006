@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains questions asked for homework 4.
 file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/0679a940ab2f3240ff6535fab4c466ba_hw4.pdf
+file_size: 44185
 file_type: application/pdf
 learning_resource_types:
 - Assignments
