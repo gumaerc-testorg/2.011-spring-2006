@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for What is a vortex?, Tornados and Water Spouts,
   Vortex Rings, Wake Morphology, etc.
-file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/99a66f4f41c6bc48b1b6225a1c696f90_vorticity.pdf
+file: /ol-ocw-studio-app/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/99a66f4f41c6bc48b1b6225a1c696f90_vorticity.pdf
 file_size: 496824
 file_type: application/pdf
 learning_resource_types:
