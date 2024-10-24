@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the questions based on the topics covered during the
   course for take home exam.
-file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/d897b08e25017f64ae16a6448e679f5b_takehome_2.pdf
+file: /ol-ocw-studio-app/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/d897b08e25017f64ae16a6448e679f5b_takehome_2.pdf
 file_size: 36436
 file_type: application/pdf
 learning_resource_types:
