@@ -6,6 +6,7 @@ draft: false
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
+show_section_pages: true
 title: Labs
 uid: d07bad32-90f0-6804-1882-ac316a4de372
 ---
