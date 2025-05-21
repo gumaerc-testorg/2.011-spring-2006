@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/073d1246f6aac0102c6b29e0bfdfa5bc_hw5_sonar_leonar.pdf
+file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/073d1246f6aac0102c6b29e0bfdfa5bc_hw5_sonar_leonar.pdf
 file_size: 501162
 file_type: application/pdf
 learning_resource_types:
