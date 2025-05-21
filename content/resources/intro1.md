@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes on the introduction to ocean science and engineering,
   basic information on the course etc.
-file: /ol-ocw-studio-app/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/412cb4e73f8fde4b1324a06198279335_intro1.pdf
+file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/412cb4e73f8fde4b1324a06198279335_intro1.pdf
 file_size: 936332
 file_type: application/pdf
 learning_resource_types:

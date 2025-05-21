@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the solutions to the questions asked in the homework
   7.
-file: /ol-ocw-studio-app/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/fcc6a7054a11caa29110da7dab5c8f09_hw7_soln.pdf
+file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/fcc6a7054a11caa29110da7dab5c8f09_hw7_soln.pdf
 file_size: 371756
 file_type: application/pdf
 learning_resource_types:
