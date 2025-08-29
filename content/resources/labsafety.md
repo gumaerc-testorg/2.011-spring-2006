@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/751b61175b22b82cc6f58838d851dc81_labsafety.pdf
+file: /ol-ocw-studio-app/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/751b61175b22b82cc6f58838d851dc81_labsafety.pdf
 file_size: 14500
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

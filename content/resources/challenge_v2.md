@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This file contains the notes on the challenges for ocean systems design.
-file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/d29eeb75607857180b45b7b99727bd49_challenge_v2.pdf
+file: /ol-ocw-studio-app/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/d29eeb75607857180b45b7b99727bd49_challenge_v2.pdf
 file_size: 121489
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
