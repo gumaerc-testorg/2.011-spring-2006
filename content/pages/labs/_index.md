@@ -4,7 +4,7 @@ description: Labs section contains the information about the labs and contains g
   info about the lab safety.
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 show_section_pages: true
 title: Labs
