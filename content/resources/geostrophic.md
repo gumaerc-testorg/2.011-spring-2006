@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains notes for Geostrophic Balance (Horizontal), Hydrostatic
   Balance (Vertical), Geostrophic Equations, Sea Surface Elevation, Satellite Measurement
   of Currents etc.
-file: /courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/47a035a6428b728e53a08fc183bce9f3_geostrophic.pdf
+file: /ol-ocw-studio-app/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/47a035a6428b728e53a08fc183bce9f3_geostrophic.pdf
 file_size: 451011
 file_type: application/pdf
 learning_resource_types:
