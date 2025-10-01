@@ -27,7 +27,7 @@ The goal of this course is to give each student an introduction to fundamental o
 
 This conference paper describes several teaching innovations embodied in this course:
 
-*   Techet, A. H., T. T. Truscott, and M. K. Thompson. "[Integration of hands-on laboratory modules to enhance the introduction of ocean science and engineering to undergraduates](http://ieeexplore.ieee.org/document/4099124/)." _Proceedings of IEEE/MTS Oceans/Boston 2006 Conference_, September 2006.
+*   Techet, A. H., T. T. Truscott, and M. K. Thompson. "{{% resource_link "19fd2f34-f818-42ae-a9ad-9c4f87fd12c5" "Integration of hands-on laboratory modules to enhance the introduction of ocean science and engineering to undergraduates" %}}." _Proceedings of IEEE/MTS Oceans/Boston 2006 Conference_, September 2006.
 
 Prerequisites
 -------------
@@ -100,6 +100,6 @@ Textbooks
 
 The required text for the course is freely available online.
 
-Stewart, Robert. [_Introduction to Physical Oceanography_](http://oceanworld.tamu.edu/home/course_book.htm). August 2005 version.
+Stewart, Robert. {{% resource_link "d50a9746-705e-4ab4-bc34-b2ba43838e8f" "_Introduction to Physical Oceanography_" %}}. August 2005 version.
 
 Additional reference and supplemental books are listed in the {{% resource_link 113929cd-9930-2732-848e-9dc0ae95452a "readings" %}} section.
