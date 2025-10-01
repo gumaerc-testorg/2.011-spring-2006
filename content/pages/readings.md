@@ -13,7 +13,7 @@ Assigned readings are given in the following table, followed by a list of sugges
 
 All chapters listed in this table are from the required course text, which is freely available online.
 
-Stewart, Robert. [_Introduction to Physical Oceanography_](https://sites.google.com/tamu.edu/ocean-world/resources). August 2005 version.
+Stewart, Robert. {{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "_Introduction to Physical Oceanography_" %}}. August 2005 version.
 
 The table below provides information on the course's lecture (L), and lab (Lab) sessions.
 
@@ -41,11 +41,11 @@ L1
 Introduction to Ocean Systems and Engineering
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 1](https://sites.google.com/tamu.edu/ocean-world/resources)  
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 1" %}}  
   
-[Chapter 2](https://sites.google.com/tamu.edu/ocean-world/resources)  
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 2" %}}  
   
-[Chapter 3](https://sites.google.com/tamu.edu/ocean-world/resources)  
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 3" %}}  
   
 Hydrostatic Pressure ({{% resource_link 39ff285a-f55b-91f5-5047-3ba37192caf1 "PDF" %}})  
   
@@ -61,7 +61,7 @@ L2
 Sea Floor; Measurements in the Ocean; Accuracy of Measurements
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 3](https://sites.google.com/tamu.edu/ocean-world/resources)  
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 3" %}}  
   
 Slides: Introduction Part 2 ({{% resource_link 92b05856-ec9b-5571-b7b2-f0377a284017 "PDF - 2.5 MB" %}})
 {{< tdclose >}}
@@ -75,9 +75,9 @@ L3
 Atmospheric Effects on the Ocean; Wind and Heat
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 4](https://sites.google.com/tamu.edu/ocean-world/resources)  
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 4" %}}  
   
-[Chapter 5](https://sites.google.com/tamu.edu/ocean-world/resources)
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 5" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +101,7 @@ L4
 Ocean Seawater Properties
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 6](https://sites.google.com/tamu.edu/ocean-world/resources)
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 6" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +137,7 @@ L5
 Light Propagation in the Ocean
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 6](https://sites.google.com/tamu.edu/ocean-world/resources)
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 6" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +161,7 @@ L6
 Sound Propagation in the Ocean: Basics, Speed of Sound, Sound Channel
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 3](https://sites.google.com/tamu.edu/ocean-world/resources)
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 3" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,7 +281,7 @@ L12
 Turbulence, Scaling, Boundary Layers
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 8](https://sites.google.com/tamu.edu/ocean-world/resources)  
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 8" %}}  
   
 Slides: Vorticity in the Ocean ({{% resource_link 99a66f4f-41c6-bc48-b1b6-225a1c696f90 "PDF" %}})
 {{< tdclose >}}
@@ -307,7 +307,7 @@ L13
 Ocean Mixing and Stability
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 8](https://sites.google.com/tamu.edu/ocean-world/resources)
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 8" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +319,7 @@ L14
 Coriolis Force and Ekman Forcing
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 9](https://sites.google.com/tamu.edu/ocean-world/resources)  
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 9" %}}  
   
 Slides: Motion of the Upper Ocean ({{% resource_link 71d23b70-1596-048f-dd85-8ecd31c562ea "PDF" %}})
 {{< tdclose >}}
@@ -345,7 +345,7 @@ L15
 Geostrophic Flows 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10](https://sites.google.com/tamu.edu/ocean-world/resources)  
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 10" %}}  
   
 Slides: Geostrophic Currents ({{% resource_link 47a035a6-428b-728e-53a0-8fc183bce9f3 "PDF" %}})
 {{< tdclose >}}
@@ -371,7 +371,7 @@ L16
 Geostrophic Flows 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10](https://sites.google.com/tamu.edu/ocean-world/resources)
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 10" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -383,7 +383,7 @@ L17
 Measuring Currents: Lagrangian vs. Eulerian
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 10](https://sites.google.com/tamu.edu/ocean-world/resources)
+{{% resource_link "ea3b610b-622f-4d16-ab5c-06e5c9e57fe9" "Chapter 10" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
