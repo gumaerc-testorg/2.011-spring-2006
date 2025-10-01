@@ -16,8 +16,8 @@ General Information about the MIT Ocean Engineering Teaching Laboratory (OETL) (
 
 In Labs 1-6, students construct and test a SeaPerch II Remotely Operated Vehicle (ROV).
 
-- [SeaPerch](https://seagrant.mit.edu/2011/05/05/sea-perch-institute-challenge/): The Sea Grant SeaPerch site contains general information on how to build the smaller unit with links to other helpful information.
-- [SeaPerch II](https://seagrant.mit.edu/seaperch2/): SeaPerch II is a slightly more advanced design than the SeaPerch I. This is the one we will be designing in class; its instructions are modifications to the SeaPerch I.
+- {{% resource_link "de4e8e36-bcce-41cb-ba08-267dfdf038d4" "SeaPerch" %}}: The Sea Grant SeaPerch site contains general information on how to build the smaller unit with links to other helpful information.
+- {{% resource_link "9b416047-edaf-43fd-b68c-27cda848b814" "SeaPerch II" %}}: SeaPerch II is a slightly more advanced design than the SeaPerch I. This is the one we will be designing in class; its instructions are modifications to the SeaPerch I.
 
 ### Testing at the MIT Boat House (Charles River)
 
